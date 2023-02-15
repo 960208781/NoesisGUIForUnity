@@ -1,0 +1,65 @@
+{
+  "name": "com.noesis.noesisgui",
+  "version": "3.1.7",
+  "displayName": "NoesisGUI",
+  "description": "NoesisGUI is a lightweight cross-platform user interface library with fast hardware-accelerated vector graphics.",
+  "unity": "2020.2",
+  "documentationUrl": "https://www.noesisengine.com/docs",
+  "changelogUrl": "https://www.noesisengine.com/docs/Gui.Core.Changelog.html",
+  "licensesUrl": "https://www.noesisengine.com/legal/eula.php",
+  "keywords": [],
+  "author": {
+    "name": "Noesis Technologies",
+    "email": "support@noesisengine.com",
+    "url": "https://www.noesisengine.com"
+  },
+  "samples": [
+    {
+      "displayName": "Brush Shaders",
+      "path": "Samples~/BrushShaders"
+    },
+    {
+      "displayName": "Buttons",
+      "path": "Samples~/Buttons"
+    },
+    {
+      "displayName": "Data Binding",
+      "path": "Samples~/DataBinding"
+    },
+    {
+      "displayName": "Hello World",
+      "path": "Samples~/HelloWorld"
+    },
+    {
+      "displayName": "Inventory",
+      "path": "Samples~/Inventory"
+    },
+    {
+      "displayName": "Localization",
+      "path": "Samples~/Localization"
+    },
+    {
+      "displayName": "Login",
+      "path": "Samples~/Login"
+    },
+    {
+      "displayName": "Quest Log",
+      "path": "Samples~/QuestLog"
+    },
+    {
+      "displayName": "Scoreboard",
+      "path": "Samples~/Scoreboard"
+    },
+    {
+      "displayName": "Tic-Tac-Toe",
+      "path": "Samples~/TicTacToe"
+    },
+    {
+      "displayName": "Video Effects",
+      "path": "Samples~/VideoEffect"
+    }
+  ],
+  "dependencies": {
+    "com.unity.inputsystem": "1.0.2"
+  }
+}

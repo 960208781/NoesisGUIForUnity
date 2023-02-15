@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1c7b7d3f4485b144485f56a61a2d3982
+importerOverride: Noesis.NoesisGUI.Editor::NoesisFontImporter
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PT Root UI
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 590c917dd0e40b546b57e1f3ef6b591a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

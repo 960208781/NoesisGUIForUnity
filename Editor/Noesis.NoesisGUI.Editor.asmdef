@@ -1,0 +1,31 @@
+{
+    "name": "Noesis.NoesisGUI.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Noesis.NoesisGUI",
+        "Unity.InputSystem",
+        "Unity.RenderPipelines.Universal.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.ugui",
+            "expression": "1.0.0",
+            "define": "ENABLE_UGUI_PACKAGE"
+        },
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "7.2.1",
+            "define": "ENABLE_URP_PACKAGE"
+        }
+    ],
+    "noEngineReferences": false
+}

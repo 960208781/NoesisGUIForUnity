@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7f789cf89dd9b96468773bd3ac2cf91d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _xaml: {instanceID: 0}
+  - _texture: {instanceID: 0}
+  - _actions: {fileID: -944628639613478452, guid: 9f67088567c2b5040b62090c14e352e3, type: 3}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: ec9f447136a43fb468cec62c61a79bd3, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
